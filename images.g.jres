@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQPABAAAAAAAAAAAFDrBQAAAAAAUN3lAAAAAABQXVUAAAAAAFBdVQAAAAAAVV1VAAAAAFDVXVUAAAAAUNVVVQAAAABV3VVVAAAAUNXdVUXuAEBV3V1VBe5eVd3dVVUEzlzd3V1VVQAAUFVVVVUFAAAAVVVV5QAAAABAVVUAADA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "banana"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}

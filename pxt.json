@@ -1,0 +1,31 @@
+{
+    "name": "fruit extension (I don't know Why)",
+    "version": "0.0.1",
+    "description": "A massive silly fruit extension with powers, moods, weather, physics, fusion, quests and more.",
+    "dependencies": {
+        "device": "*",
+        "pxt-common-packages": "*",
+        "pxt-core": "*",
+        "Timers": "github:microsoft/arcade-timers#v1.1.0"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "fruit.ts",
+        "images.g.jres",
+        "images.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "2.0.62",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "tsprj"
+}
