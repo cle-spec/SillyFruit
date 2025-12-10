@@ -6,9 +6,11 @@ Bring your game to life with **talking apples**, **banana rain**, **grape blizza
 ---
 
 <p align="center">
+  <div>
   <img src="docs/fruit-banner.png" width="600" />
   <br>
   <em>"Stay juicy, buddy!" 🍌</em>
+  </div>
 </p>
 
 ---
